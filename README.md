@@ -1,5 +1,5 @@
 # ANWALIFLIX
-(img)[capture1.png]
+(img)[cap1.png]
 # Site de Streaming Vidéo en PHP et MySQL
 
 Ce projet est un site web de streaming vidéo permettant aux utilisateurs de regarder des séries et des films. 
